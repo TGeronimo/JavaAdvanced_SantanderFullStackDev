@@ -1,4 +1,4 @@
-public class ExBemBosta {
+public class ExInicial {
     public static void main(String[] args) {
 //          Apenas um parâmetro
         Funcao funcao = colocaSr -> "Sr. " + colocaSr;
